@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://nurtured-ideas-857763.framer.app/#"
+      "destination": "https://nirmalassignment.framer.website/"
     }
   ]
 }
