@@ -1,8 +1,7 @@
-{
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "https://nirmalassignment.framer.website/"
-    }
-  ]
-}
+"redirects": [
+  {
+    "source": "/",
+    "destination": "https://nirmalassignment.framer.website/",
+    "permanent": true
+  }
+]
